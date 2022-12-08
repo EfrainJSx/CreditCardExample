@@ -84,7 +84,7 @@
     height: 100%;
     width: 100%;
     top: 0; left: 0;
-    background:linear-gradient(45deg, orange, deeppink);
+    background:black;
     border-radius: 5px;
     backface-visibility: hidden;
     box-shadow: 0 15px 25px rgba(0,0,0,.2);
@@ -128,7 +128,7 @@
     top:0; left: 0;
     height: 100%;
     width: 100%;
-    background:linear-gradient(45deg, orange, deeppink);
+    background:black;
     border-radius: 5px;
     padding: 20px 0;
     text-align: right;
@@ -139,7 +139,7 @@
 }
 
 .container .card-container .back .stripe{
-    background: #000;
+    background: darkgray;
     width: 100%;
     margin: 10px 0;
     height: 50px;
